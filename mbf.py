@@ -9,7 +9,7 @@ os.system("clear")
 print ("\033[93mTUNGGU BENTAR......")
 time.sleep(8)
 def clear():
-    os.system("clear")
+    os.system("cls")
 def kata(s):
     for c in s + '\n':
         sys.stdout.write(c)
@@ -25,12 +25,12 @@ def baner():
             ██║ ╚═╝ ██║    ██████╔╝    ██║
             ╚═╝     ╚═╝    ╚═════╝     ╚═╝
 
-┌────────────────────────────────────────────────────────────────┐
-│  Creator  : @Xenz-11                                           │
-│  Github   : https://github.com/Xenz-11                         │
-│  Facebook : Xenz Why                                           │
-│  Contact  : +6283138613993                                     │
-└────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│  Creator  : petrus-david                                  │
+│  Github   : github.com/petrus-it                          │
+│  Facebook : Petrus Dav Adi Pranata                        │
+│  Contact  : +6282371952742                                │
+└───────────────────────────────────────────────────────────┘
 """)
 def balik():
     f=input("\033[00m\t[\033[96mEnter To Back\033[00m]")
